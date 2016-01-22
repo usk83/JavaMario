@@ -8,9 +8,8 @@ JavaMario
 
 ## 操作方法
 
-左右移動: ←→
+左右移動: ←→  
 ジャンプ: Space
-
 
 ## ビルド方法
 
@@ -31,3 +30,5 @@ JavaMario
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
 
 ## 参考資料
+
+- [Javaでゲーム作りますが何か？ - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20040918/1251373370)
