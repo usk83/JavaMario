@@ -29,6 +29,18 @@ JavaMario
 
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
 
+* NES - Super Mario Bros - All Sound Effects
+
+`./res/sound/effects/*`
+
+[NES - Super Mario Bros. - The Sounds Resource](http://www.sounds-resource.com/nes/supermariobros/)
+
+* the Super Mario Bros. 1 Soundtrack
+
+`./res/sound/bgm/*`
+
+[Super Mario Bros Nes Soundtrack](http://www.mariomayhem.com/downloads/sound_tracks/super_mario_bros_1_soundtrack.php)
+
 ## 参考資料
 
 - [Javaでゲーム作りますが何か？ - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20040918/1251373370)
