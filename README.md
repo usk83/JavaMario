@@ -24,8 +24,10 @@ JavaMario
 [ドット絵　マリオ ( イラストレーション ) - のんびりフロミン日記](http://blogs.yahoo.co.jp/s_ohata/849558.html)
 
 * NES - Super Mario Bros - Mario Luigi.png
+* NES - Super Mario Bros - Item and Brick Blocks.png
 
-`./res/mario/*`
+`./res/mario/*`  
+`./res/block/*`
 
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
 
