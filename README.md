@@ -25,9 +25,11 @@ JavaMario
 
 * NES - Super Mario Bros - Mario Luigi.png
 * NES - Super Mario Bros - Item and Brick Blocks.png
+* NES - Super Mario Bros - Items Objects.png
 
 `./res/mario/*`  
 `./res/block/*`
+`./res/object/*`
 
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
 
