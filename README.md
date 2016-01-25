@@ -28,7 +28,7 @@ JavaMario
 * NES - Super Mario Bros - Items Objects.png
 
 `./res/mario/*`  
-`./res/block/*`
+`./res/block/*`  
 `./res/object/*`
 
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
