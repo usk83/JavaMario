@@ -27,11 +27,13 @@ JavaMario
 * NES - Super Mario Bros - Item and Brick Blocks.png
 * NES - Super Mario Bros - Items Objects.png
 * NES - Super Mario Bros - Enemies.png
+* NES - Super Mario Bros - Title Screen.png
 
 `./res/mario/*`  
 `./res/block/*`  
 `./res/object/*`  
 `./res/enemy/*`
+`./res/title/*`
 
 [NES - Super Mario Bros. - The Spriters Resource](http://www.spriters-resource.com/nes/supermariobros/)
 
